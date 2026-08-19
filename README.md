@@ -1,2 +1,2 @@
 # Data and scripts – Human disturbances and woody flora diversity
-Scripts for reproducing the multimodel, PCA, and NMDS analyses performed in the article “Human Disturbances And Woody Flora Diversity Along A Caatinga–Brejo De Altitude Gradient In Northeastern Brazil”
+Excel spreadsheets and R scripts to reproduce the multi-model, PCA, and NMDS analyses performed in the article “Human Disturbances and Woody Flora Diversity Along a Caatinga-Brejo Altitudinal Gradient in Northeastern Brazil”
